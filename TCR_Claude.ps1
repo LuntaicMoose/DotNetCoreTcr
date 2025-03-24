@@ -1,4 +1,5 @@
 # Accept a folder path as a parameter
+
 param (
     [string]$folder,
     [string]$testProjectSuffix = ".Tests"
